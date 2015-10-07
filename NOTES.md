@@ -14,7 +14,11 @@ on cylindrical projects: https://www.maa.org/sites/default/files/pdf/upload_libr
 computer vision w/ python textbook: http://www.bogotobogo.com/python/files/pytut/Computer_Vision_with_Python.pdf    
 python opencv book: https://homepages.thm.de/~hg11237/Start/OpenCV/Mastering%20OpenCV%20with%20Practical%20Computer%20Vision%20Projects%20%5BeBook%5D.pdf
 p 85: piecewise affine transformation: http://programmingcomputervision.com/downloads/ProgrammingComputerVision_CCdraft.pdf
+Shi & Malik, 2000, on segmentation via eigenvector solution(seminal):http://repository.upenn.edu/cgi/viewcontent.cgi?article=1101&context=cis_papers
 
+#### Courses:
+
+UC Davis, Image processing and recognition: https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD
 
 
 #### algo:
