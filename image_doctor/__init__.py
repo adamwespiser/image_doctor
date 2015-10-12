@@ -63,3 +63,22 @@ def test_docstring(param1,param2=None, *args, **kwargs):
 
 
 
+
+
+class template_logos():
+    def __init__(self, templates logos):
+        # register the image files
+
+    def apply_fn(self):
+        # construct fun call
+        # send to multi-processing
+
+
+
+
+
+
+
+
+
+
